@@ -43,3 +43,15 @@ Office of Facilities Services (Formerly Physical Plant)
 
 All requests should be submitted through the web-based system Maintenance Direct by School Dude using your NJIT Highlander Pipeline username (UCID) and password. For urgent matters (e.g. no heat, electric, gas, water; flood or overflow; extreme low or high room temperatures, elevator not working) please contact our Service Desk at 973-596-6200 (Monday – Friday, 8:30 am – 4:30 pm) or Public Safety at 973-596-3111 after normal work hours. Depending on work complexity and conditions, repair requests will be prioritized and executed as soon as resources are available — scheduling may take up to 30 days. You can check the status of a work request at http://www.njit.edu/maintenanceLinks to an external site. or contact our Service Desk at 973-596-6200. Please call or go online for more information.
 
+# Question: What software can we access for free as part of being a student at NJIT?
+
+## Wolfram products
+Wolfram products are available to faculty, staff and students (site license). As of 9/29/22, this license includes Mathematica | Desktop, Mathematica | Online, Wolfram|Alpha Notebook Edition and Wolfram|Alpha Pro. You can access Wolfram software on and off campus with your school login through single sign-on (SSO). 
+
+Check here (https://www.wolfram.com/siteinfo) for the most up-to-date list of Wolfram software that we can access.
+
+
+
+ 
+
+Going forward, you can use SSO to sign in to any Wolfram website, including Wolfram Community (for peer-to-peer support and assistance). Please share this link with your colleagues and students so they can utilize Wolfram products for their courses and research projects as well.
