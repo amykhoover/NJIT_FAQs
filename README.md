@@ -1,5 +1,7 @@
 # NJIT FAQs
 
+## I tested positive for COVID, what should I do?
+
 ## Question: If I have an emergency, how can I contact Public Safety?
 If it is an emergency, dial 9-1-1 and tell the dispatcher you are at NJIT. 
 
@@ -8,7 +10,7 @@ If it is not an emergency but requires attention, please call 973-596-3111.
 For more information regarding public safety services, please vist their website.Links to an external site.
 
 
-Question: If a student does not feel well, where can they go for medical attention?
+## Question: If a student does not feel well, where can they go for medical attention?
 The NJIT Student Health Services at St. Michael's Primary and Specialty Care Center, 111 Central Avenue is available for walk-in service from Monday through Friday, 8 a.m. to 3:30 p.m. Students can call 973-596-3621 to inquire about approximate wait times. Appointments are not accepted.
 
 For additional information on the NJIT campus health and wellness programs, visit their website.Links to an external site.
