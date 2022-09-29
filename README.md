@@ -1,6 +1,10 @@
 # NJIT FAQs
 
-## I tested positive for COVID, what should I do?
+## Question: I tested positive for COVID, what should I do?
+
+If you test positive for COVID-19, contact your healthcare provider and notify NJIT at covid.notify@njit.edu. 
+
+As of 09/29/22, current CDC guidelines direct you to stay home for at least 5 days and isolate from others in your home. It is during these first 5 days that you are most infectious. Please check the CDC website for the most up-to-date protocol: https://tinyurl.com/szu5u58w
 
 ## Question: If I have an emergency, how can I contact Public Safety?
 If it is an emergency, dial 9-1-1 and tell the dispatcher you are at NJIT. 
